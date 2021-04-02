@@ -1,0 +1,28 @@
+FARM MANAGEMENT SYSTEM/Agriclture/crop
+LAND MANAGEMENT FOR FARMING
+Registration
+Types of Users
+Land Owner and Land Renter
+The owner also request to the user to give land on rent 
+User request land from owner for land
+personal details 
+Land Details-
+Plot area deatls
+Durations
+Terms /conditions(Terms are made by the standard market or by owner and renter by mutually)
+Term-I
+Renters will give yield to the owner or will give the money of that amount of yield according to the standard market price of yields..
+
+The cost involved in growing the crop will be bear the owner only.
+Term-II
+ bonds make on only on fixed money amount(which will decide mutually by owner and renters)
+
+The cost involved in growing the crop will be bear the owner only.
+Term-III
+yield and expense are  equally divided between owner  and renter 
+
+Term-IV
+The bond will be signed for a specific time duration, all the yield in that time will be given to the renter
+
+Owner will not have any right on that land at that time
+.

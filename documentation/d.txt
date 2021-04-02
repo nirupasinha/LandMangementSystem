@@ -1,0 +1,64 @@
+1.introduction
+2.file structure
+3.Fundamental of typescript and object-oriented programming 
+4.Angular fundamentals
+5.Displaying data and handling events
+6.components
+7.Directives
+8.Tenplate-driven forms
+9.Reactive forms//
+10.consuming HTTP services//
+11.Routing and navigation
+12.Authentication and authorization//
+13.Deployment
+14.Building real-time, serverless applications with firebase
+
+15.animations
+16.angular materials
+17.redux
+18.unit testing
+19.intergration testing
+
+20.ecommerance application
+
+4.fundamentals of typescript
+-Type annotations
+-arrow functions
+-interfaces
+-classes
+-constructors
+-access modifiers
+-properties
+-modules
+
+Q.what is typescript?
+typescript is not an entirely new language its a
+typescript is superset of javascript means any valid javascript is also valid typescript code but typescript has additional features that do not exits  in the current version of javascript supported by most broswer out there for example
+typescripts features-----
+1.Strong Typing
+In typescript we have concepts of strong or static typing(typing is optional in typescript means we difine variable we dont need to specify the type of that variables) this feartures makes our applications more predictable and its makes also it easier to debug them when something goes wrong.
+2.Object-oriented features
+typescript also brings quite a few object-oriented features that we have missed in javascript for a long time we have the concept of classes, interfaces, contructors, access modifiers like public and private, filled properties , generics 
+
+3.Compiler-time errors
+another benefits of using typescript is that with typescripts we can actch errors at compile time instead of at runtime well of course not all kinds of errors but a lots of errors so ther is a compliation step involved and when we complile our typescript  code we can catch these errors and fix them before deploying our application and finally another benefits of typescripts is
+4. Great tooling
+we get access to some great tools out there,intelligence that we get in our code editors 
+
+Typescripts-----------Transpile/compile----->Javascript
+
+Q how to install typescripts and write first typescript program
+1.install typescript globally on our machine 
+$sudo npm install -g typescript(install tsc on mac)
+$tsc --version(check the version of tsc)
+$mkdir ts-hello/ (create a new folder )
+$cd ts-hello(call this ts-hello folder and create a new file and open it with vs code)
+ts-hello $code main.ts
+
+
+
+
+
+
+
+
